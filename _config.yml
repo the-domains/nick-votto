@@ -1,6 +1,6 @@
-name: null
+name: Nick Votto
 favicon: null
-layout_spectrum: 0.544042399385944
+layout_spectrum: 0.27336
 typography_spectrum: 0.7140794210135937
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.6321323374286294
+  brandStrength: 0.5
   lightness: 0.6984233646653593
   saturation: 0.7469349291641265
   rhythmicContrast: 0.8435240886174142
