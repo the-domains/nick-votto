@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: My pizza is about to be delivered
-datePublished: '2015-10-20T01:12:42.256Z'
-dateModified: '2015-10-20T01:11:14.084Z'
+datePublished: '2015-10-20T01:20:23.952Z'
+dateModified: '2015-10-20T01:19:17.204Z'
 title: Pretty Dogs
 authors: []
 publisher:
