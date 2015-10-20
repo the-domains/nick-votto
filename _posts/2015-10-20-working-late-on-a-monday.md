@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Is there anything more fun?
-datePublished: '2015-10-20T01:15:30.976Z'
-dateModified: '2015-10-20T01:15:01.364Z'
+datePublished: '2015-10-20T01:19:32.188Z'
+dateModified: '2015-10-20T01:19:10.555Z'
 title: Working Late on a Monday
+sourcePath: _posts/2015-10-20-working-late-on-a-monday.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-20-working-late-on-a-monday.md
-published: true
 url: working-late-on-a-monday/index.html
 _type: Article
 
